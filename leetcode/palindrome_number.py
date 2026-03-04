@@ -14,5 +14,4 @@ def isPalindrome(x):
     return y==z
 
 
-print(isPalindrome(59695))
         
