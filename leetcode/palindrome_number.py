@@ -13,5 +13,14 @@ def isPalindrome(x):
 
     return y==z
 
+'''
+##No need to check the whole number
+    while x>y :
+        y=y*10+x%10
+        x=x//10
 
+    return x==y or x==y//10
+
+
+'''
         
